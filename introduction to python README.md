@@ -18,6 +18,7 @@ area of circle algorithm-
 import math library .
 take radius input r.
 use import.math to find the area.
+formulae=,math.pi*r*r
 display the values
 
 if else algorithm-
